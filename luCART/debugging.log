@@ -1,0 +1,501 @@
+2020-12-18 12:33:14,625 INFO Building and pruning tree
+2020-12-18 12:33:14,625 INFO Adding root node
+2020-12-18 12:33:14,632 INFO Choosing best split
+2020-12-18 12:33:14,632 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:22,718 DEBUG 0 best split point: 5.928549563984921.                      Impurity reduction: -136.72684746210257
+2020-12-18 12:33:22,718 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:30,493 DEBUG 1 best split point: 5.788146709735974.                      Impurity reduction: -156.51316506192023
+2020-12-18 12:33:30,493 DEBUG Chose 0 and                         5.928549563984921
+2020-12-18 12:33:30,497 INFO Choosing best split
+2020-12-18 12:33:30,497 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:34,197 DEBUG 0 best split point: 4.810612917253843.                      Impurity reduction: -54.736512523150026
+2020-12-18 12:33:34,197 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:37,865 DEBUG 1 best split point: 4.541929651298272.                      Impurity reduction: -24.658001870271914
+2020-12-18 12:33:37,865 DEBUG Chose 1 and                         4.541929651298272
+2020-12-18 12:33:37,870 INFO Choosing best split
+2020-12-18 12:33:37,870 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:38,072 DEBUG 0 best split point: 4.810011245214119.                      Impurity reduction: -5.443870674779765
+2020-12-18 12:33:38,072 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:38,270 DEBUG 1 best split point: 3.375033072853904.                      Impurity reduction: -5.308280458544389
+2020-12-18 12:33:38,271 DEBUG Chose 1 and                         3.375033072853904
+2020-12-18 12:33:38,274 INFO Stopped at 1 < 3.375033072853904: all data points are of the same class
+2020-12-18 12:33:38,279 INFO Choosing best split
+2020-12-18 12:33:38,279 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:38,388 DEBUG 0 best split point: 4.810011245214119.                      Impurity reduction: -4.164467816262821
+2020-12-18 12:33:38,388 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:38,498 DEBUG 1 best split point: 4.133490375097377.                      Impurity reduction: -4.597909374704381
+2020-12-18 12:33:38,498 DEBUG Chose 0 and                         4.810011245214119
+2020-12-18 12:33:38,504 INFO Choosing best split
+2020-12-18 12:33:38,504 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:38,530 DEBUG 0 best split point: 4.614327308378462.                      Impurity reduction: -0.9551020408163265
+2020-12-18 12:33:38,530 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:38,559 DEBUG 1 best split point: 4.265355550297804.                      Impurity reduction: -1.08843537414966
+2020-12-18 12:33:38,560 DEBUG Chose 0 and                         4.614327308378462
+2020-12-18 12:33:38,567 INFO Stopped at 0 < 4.614327308378462: data under current_node is already small enough
+2020-12-18 12:33:38,571 INFO Stopped at 0 >= 4.614327308378462: all data points are of the same class
+2020-12-18 12:33:38,577 INFO Choosing best split
+2020-12-18 12:33:38,577 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:38,668 DEBUG 0 best split point: 5.303763736363431.                      Impurity reduction: -2.328125
+2020-12-18 12:33:38,668 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:38,762 DEBUG 1 best split point: 4.073684536185508.                      Impurity reduction: -2.2906249999999995
+2020-12-18 12:33:38,762 DEBUG Chose 1 and                         4.073684536185508
+2020-12-18 12:33:38,770 INFO Choosing best split
+2020-12-18 12:33:38,770 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:38,824 DEBUG 0 best split point: 5.303763736363431.                      Impurity reduction: -1.9400000000000002
+2020-12-18 12:33:38,824 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:38,879 DEBUG 1 best split point: 4.007920326512566.                      Impurity reduction: -1.554285714285715
+2020-12-18 12:33:38,879 DEBUG Chose 1 and                         4.007920326512566
+2020-12-18 12:33:38,887 INFO Choosing best split
+2020-12-18 12:33:38,887 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:38,942 DEBUG 0 best split point: 5.303763736363431.                      Impurity reduction: -1.4331065759637185
+2020-12-18 12:33:38,942 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:38,993 DEBUG 1 best split point: 3.6183957045836994.                      Impurity reduction: -1.4331065759637185
+2020-12-18 12:33:38,994 DEBUG Chose 0 and                         5.303763736363431
+2020-12-18 12:33:38,998 INFO Stopped at 0 < 5.303763736363431: all data points are of the same class
+2020-12-18 12:33:39,007 INFO Choosing best split
+2020-12-18 12:33:39,007 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:39,041 DEBUG 0 best split point: 5.443994228701838.                      Impurity reduction: -0.7021604938271605
+2020-12-18 12:33:39,041 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:39,079 DEBUG 1 best split point: 3.609315662633871.                      Impurity reduction: -1.160493827160494
+2020-12-18 12:33:39,079 DEBUG Chose 0 and                         5.443994228701838
+2020-12-18 12:33:39,084 INFO Stopped at 0 < 5.443994228701838: all data points are of the same class
+2020-12-18 12:33:39,094 INFO Choosing best split
+2020-12-18 12:33:39,094 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:39,124 DEBUG 0 best split point: 5.742063233024813.                      Impurity reduction: -0.5572916666666667
+2020-12-18 12:33:39,125 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:39,159 DEBUG 1 best split point: 3.658531317308669.                      Impurity reduction: -0.640625
+2020-12-18 12:33:39,160 DEBUG Chose 0 and                         5.742063233024813
+2020-12-18 12:33:39,165 INFO Stopped at 0 < 5.742063233024813: all data points are of the same class
+2020-12-18 12:33:39,175 INFO Stopped at 0 >= 5.742063233024813: data under current_node is already small enough
+2020-12-18 12:33:39,180 INFO Stopped at 1 >= 4.007920326512566: all data points are of the same class
+2020-12-18 12:33:39,183 INFO Stopped at 1 >= 4.073684536185508: all data points are of the same class
+2020-12-18 12:33:39,188 INFO Choosing best split
+2020-12-18 12:33:39,188 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:42,660 DEBUG 0 best split point: 5.090082565770075.                      Impurity reduction: -17.649943802778164
+2020-12-18 12:33:42,660 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:46,238 DEBUG 1 best split point: 5.8681520051985405.                      Impurity reduction: -16.469652948630014
+2020-12-18 12:33:46,238 DEBUG Chose 1 and                         5.8681520051985405
+2020-12-18 12:33:46,244 INFO Choosing best split
+2020-12-18 12:33:46,244 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:46,538 DEBUG 0 best split point: 5.079261788138007.                      Impurity reduction: -6.586393423478962
+2020-12-18 12:33:46,538 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:46,846 DEBUG 1 best split point: 5.038805992868675.                      Impurity reduction: -10.588317017775438
+2020-12-18 12:33:46,846 DEBUG Chose 0 and                         5.079261788138007
+2020-12-18 12:33:46,853 INFO Choosing best split
+2020-12-18 12:33:46,853 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:47,079 DEBUG 0 best split point: 4.809962232998155.                      Impurity reduction: -1.3958222185743014
+2020-12-18 12:33:47,079 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:47,305 DEBUG 1 best split point: 4.722097412998886.                      Impurity reduction: -1.44970693035375
+2020-12-18 12:33:47,305 DEBUG Chose 0 and                         4.809962232998155
+2020-12-18 12:33:47,310 INFO Stopped at 0 < 4.809962232998155: all data points are of the same class
+2020-12-18 12:33:47,318 INFO Choosing best split
+2020-12-18 12:33:47,318 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:47,346 DEBUG 0 best split point: 4.837364132661035.                      Impurity reduction: -0.4625850340136055
+2020-12-18 12:33:47,346 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:47,373 DEBUG 1 best split point: 4.832142367531065.                      Impurity reduction: -0.6292517006802721
+2020-12-18 12:33:47,373 DEBUG Chose 0 and                         4.837364132661035
+2020-12-18 12:33:47,382 INFO Stopped at 0 < 4.837364132661035: data under current_node is already small enough
+2020-12-18 12:33:47,387 INFO Stopped at 0 >= 4.837364132661035: all data points are of the same class
+2020-12-18 12:33:47,393 INFO Choosing best split
+2020-12-18 12:33:47,394 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:47,472 DEBUG 0 best split point: 5.8551462627991135.                      Impurity reduction: -3.289411764705882
+2020-12-18 12:33:47,472 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:47,551 DEBUG 1 best split point: 5.126785716938061.                      Impurity reduction: -4.093333333333334
+2020-12-18 12:33:47,551 DEBUG Chose 0 and                         5.8551462627991135
+2020-12-18 12:33:47,559 INFO Choosing best split
+2020-12-18 12:33:47,559 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:47,625 DEBUG 0 best split point: 5.202914398515034.                      Impurity reduction: -3.006673257538309
+2020-12-18 12:33:47,625 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:47,699 DEBUG 1 best split point: 4.6869675703214995.                      Impurity reduction: -2.792387543252595
+2020-12-18 12:33:47,699 DEBUG Chose 1 and                         4.6869675703214995
+2020-12-18 12:33:47,704 INFO Stopped at 1 < 4.6869675703214995: all data points are of the same class
+2020-12-18 12:33:47,714 INFO Choosing best split
+2020-12-18 12:33:47,714 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:47,779 DEBUG 0 best split point: 5.202914398515034.                      Impurity reduction: -2.581730769230769
+2020-12-18 12:33:47,780 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:47,866 DEBUG 1 best split point: 5.461028061882542.                      Impurity reduction: -2.2125
+2020-12-18 12:33:47,866 DEBUG Chose 1 and                         5.461028061882542
+2020-12-18 12:33:47,871 INFO Stopped at 1 < 5.461028061882542: all data points are of the same class
+2020-12-18 12:33:47,881 INFO Choosing best split
+2020-12-18 12:33:47,882 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:47,925 DEBUG 0 best split point: 5.166806738058122.                      Impurity reduction: -1.9822222222222223
+2020-12-18 12:33:47,925 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:47,966 DEBUG 1 best split point: 5.5109145388093275.                      Impurity reduction: -1.76
+2020-12-18 12:33:47,966 DEBUG Chose 1 and                         5.5109145388093275
+2020-12-18 12:33:47,972 INFO Stopped at 1 < 5.5109145388093275: all data points are of the same class
+2020-12-18 12:33:47,982 INFO Choosing best split
+2020-12-18 12:33:47,982 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:48,024 DEBUG 0 best split point: 5.166806738058122.                      Impurity reduction: -1.6527777777777777
+2020-12-18 12:33:48,024 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:48,060 DEBUG 1 best split point: 5.581496272488126.                      Impurity reduction: -1.2777777777777777
+2020-12-18 12:33:48,060 DEBUG Chose 1 and                         5.581496272488126
+2020-12-18 12:33:48,066 INFO Stopped at 1 < 5.581496272488126: all data points are of the same class
+2020-12-18 12:33:48,076 INFO Choosing best split
+2020-12-18 12:33:48,076 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:48,101 DEBUG 0 best split point: 5.308752415878829.                      Impurity reduction: -0.95
+2020-12-18 12:33:48,101 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:48,126 DEBUG 1 best split point: 5.776244128776485.                      Impurity reduction: -0.5
+2020-12-18 12:33:48,126 DEBUG Chose 1 and                         5.776244128776485
+2020-12-18 12:33:48,138 INFO Stopped at 1 < 5.776244128776485: data under current_node is already small enough
+2020-12-18 12:33:48,144 INFO Stopped at 1 >= 5.776244128776485: all data points are of the same class
+2020-12-18 12:33:48,148 INFO Stopped at 0 >= 5.8551462627991135: all data points are of the same class
+2020-12-18 12:33:48,154 INFO Choosing best split
+2020-12-18 12:33:48,154 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:51,433 DEBUG 0 best split point: 5.844201327926276.                      Impurity reduction: -4.898172496480036
+2020-12-18 12:33:51,433 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:54,648 DEBUG 1 best split point: 6.692591893848546.                      Impurity reduction: -4.78408186160135
+2020-12-18 12:33:54,648 DEBUG Chose 1 and                         6.692591893848546
+2020-12-18 12:33:54,655 INFO Choosing best split
+2020-12-18 12:33:54,655 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:55,118 DEBUG 0 best split point: 5.82886723021744.                      Impurity reduction: -3.8241553849855
+2020-12-18 12:33:55,118 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:55,559 DEBUG 1 best split point: 6.69103634056253.                      Impurity reduction: -3.8241553849855
+2020-12-18 12:33:55,559 DEBUG Chose 0 and                         5.82886723021744
+2020-12-18 12:33:55,566 INFO Choosing best split
+2020-12-18 12:33:55,567 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:56,003 DEBUG 0 best split point: 4.169693960143664.                      Impurity reduction: -3.5862984090504915
+2020-12-18 12:33:56,003 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:56,465 DEBUG 1 best split point: 6.69103634056253.                      Impurity reduction: -2.8903277130797957
+2020-12-18 12:33:56,465 DEBUG Chose 1 and                         6.69103634056253
+2020-12-18 12:33:56,473 INFO Choosing best split
+2020-12-18 12:33:56,474 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:56,932 DEBUG 0 best split point: 4.169693960143664.                      Impurity reduction: -2.755504241432947
+2020-12-18 12:33:56,932 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:57,374 DEBUG 1 best split point: 6.192039638874708.                      Impurity reduction: -2.855016436554898
+2020-12-18 12:33:57,375 DEBUG Chose 0 and                         4.169693960143664
+2020-12-18 12:33:57,380 INFO Stopped at 0 < 4.169693960143664: all data points are of the same class
+2020-12-18 12:33:57,389 INFO Choosing best split
+2020-12-18 12:33:57,389 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:57,546 DEBUG 0 best split point: 4.202327834732046.                      Impurity reduction: -1.832183224271267
+2020-12-18 12:33:57,546 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:57,703 DEBUG 1 best split point: 6.192039638874708.                      Impurity reduction: -2.62183839668506
+2020-12-18 12:33:57,703 DEBUG Chose 0 and                         4.202327834732046
+2020-12-18 12:33:57,709 INFO Stopped at 0 < 4.202327834732046: all data points are of the same class
+2020-12-18 12:33:57,719 INFO Choosing best split
+2020-12-18 12:33:57,720 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:57,874 DEBUG 0 best split point: 4.408571161898378.                      Impurity reduction: -1.6747222222222222
+2020-12-18 12:33:57,875 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:58,026 DEBUG 1 best split point: 6.236048812363736.                      Impurity reduction: -1.717205882352941
+2020-12-18 12:33:58,027 DEBUG Chose 0 and                         4.408571161898378
+2020-12-18 12:33:58,038 INFO Stopped at 0 < 4.408571161898378: data under current_node is already small enough
+2020-12-18 12:33:58,049 INFO Choosing best split
+2020-12-18 12:33:58,049 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:58,188 DEBUG 0 best split point: 5.284177743093563.                      Impurity reduction: -0.882084736251403
+2020-12-18 12:33:58,188 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:58,318 DEBUG 1 best split point: 6.204108563630016.                      Impurity reduction: -0.896070750237417
+2020-12-18 12:33:58,318 DEBUG Chose 0 and                         5.284177743093563
+2020-12-18 12:33:58,324 INFO Stopped at 0 < 5.284177743093563: all data points are of the same class
+2020-12-18 12:33:58,339 INFO Choosing best split
+2020-12-18 12:33:58,339 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:33:58,382 DEBUG 0 best split point: 5.299723450050555.                      Impurity reduction: 0.08264462809917356
+2020-12-18 12:33:58,382 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:33:58,424 DEBUG 1 best split point: 6.204108563630016.                      Impurity reduction: -0.41735537190082644
+2020-12-18 12:33:58,424 DEBUG Chose 0 and                         5.299723450050555
+2020-12-18 12:33:58,430 INFO Stopped at 0 < 5.299723450050555: all data points are of the same class
+2020-12-18 12:33:58,438 INFO Stopped at 0 >= 5.299723450050555: all data points are of the same class
+2020-12-18 12:33:58,444 INFO Stopped at 1 >= 6.69103634056253: all data points are of the same class
+2020-12-18 12:33:58,448 INFO Stopped at 0 >= 5.82886723021744: all data points are of the same class
+2020-12-18 12:33:58,452 INFO Stopped at 1 >= 6.692591893848546: all data points are of the same class
+2020-12-18 12:33:58,456 INFO Choosing best split
+2020-12-18 12:33:58,456 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:02,312 DEBUG 0 best split point: 6.719792454027498.                      Impurity reduction: -62.60473680820209
+2020-12-18 12:34:02,312 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:06,105 DEBUG 1 best split point: 7.112754048592976.                      Impurity reduction: -26.00539186105376
+2020-12-18 12:34:06,106 DEBUG Chose 1 and                         7.112754048592976
+2020-12-18 12:34:06,110 INFO Choosing best split
+2020-12-18 12:34:06,111 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:09,618 DEBUG 0 best split point: 6.767961223612774.                      Impurity reduction: -15.876540635440909
+2020-12-18 12:34:09,618 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:13,143 DEBUG 1 best split point: 6.823749134452186.                      Impurity reduction: -14.451271020781236
+2020-12-18 12:34:13,143 DEBUG Chose 1 and                         6.823749134452186
+2020-12-18 12:34:13,149 INFO Choosing best split
+2020-12-18 12:34:13,149 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:16,663 DEBUG 0 best split point: 6.767961223612774.                      Impurity reduction: -10.223617148777404
+2020-12-18 12:34:16,664 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:20,170 DEBUG 1 best split point: 5.581485600484644.                      Impurity reduction: -10.624266373215939
+2020-12-18 12:34:20,170 DEBUG Chose 0 and                         6.767961223612774
+2020-12-18 12:34:20,180 INFO Choosing best split
+2020-12-18 12:34:20,180 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:20,688 DEBUG 0 best split point: 6.765635263457295.                      Impurity reduction: -8.306414365309532
+2020-12-18 12:34:20,688 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:21,192 DEBUG 1 best split point: 4.681703941973604.                      Impurity reduction: -7.893502277397442
+2020-12-18 12:34:21,193 DEBUG Chose 1 and                         4.681703941973604
+2020-12-18 12:34:21,200 INFO Choosing best split
+2020-12-18 12:34:21,201 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:21,546 DEBUG 0 best split point: 6.686782863937468.                      Impurity reduction: -0.8891317473735054
+2020-12-18 12:34:21,546 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:21,895 DEBUG 1 best split point: 3.999084778906812.                      Impurity reduction: -0.9578817473735056
+2020-12-18 12:34:21,895 DEBUG Chose 0 and                         6.686782863937468
+2020-12-18 12:34:21,900 INFO Stopped at 0 < 6.686782863937468: all data points are of the same class
+2020-12-18 12:34:21,908 INFO Choosing best split
+2020-12-18 12:34:21,908 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:21,946 DEBUG 0 best split point: 6.694070278475982.                      Impurity reduction: 0.08999999999999998
+2020-12-18 12:34:21,946 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:21,984 DEBUG 1 best split point: 3.9916416679935005.                      Impurity reduction: -0.7099999999999999
+2020-12-18 12:34:21,984 DEBUG Chose 0 and                         6.694070278475982
+2020-12-18 12:34:21,989 INFO Stopped at 0 < 6.694070278475982: all data points are of the same class
+2020-12-18 12:34:21,995 INFO Stopped at 0 >= 6.694070278475982: all data points are of the same class
+2020-12-18 12:34:22,005 INFO Choosing best split
+2020-12-18 12:34:22,005 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:22,151 DEBUG 0 best split point: 6.763227868815335.                      Impurity reduction: -6.184599358974359
+2020-12-18 12:34:22,151 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:22,297 DEBUG 1 best split point: 4.687196814728244.                      Impurity reduction: -6.184599358974359
+2020-12-18 12:34:22,297 DEBUG Chose 0 and                         6.763227868815335
+2020-12-18 12:34:22,306 INFO Choosing best split
+2020-12-18 12:34:22,306 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:22,455 DEBUG 0 best split point: 6.194539836615277.                      Impurity reduction: -5.68522523747988
+2020-12-18 12:34:22,455 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:22,602 DEBUG 1 best split point: 4.687196814728244.                      Impurity reduction: -5.547475691200388
+2020-12-18 12:34:22,602 DEBUG Chose 1 and                         4.687196814728244
+2020-12-18 12:34:22,607 INFO Stopped at 1 < 4.687196814728244: all data points are of the same class
+2020-12-18 12:34:22,617 INFO Choosing best split
+2020-12-18 12:34:22,617 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:22,763 DEBUG 0 best split point: 6.183234054059486.                      Impurity reduction: -5.297998853758717
+2020-12-18 12:34:22,764 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:22,912 DEBUG 1 best split point: 5.560604530587135.                      Impurity reduction: -5.009143281544825
+2020-12-18 12:34:22,913 DEBUG Chose 1 and                         5.560604530587135
+2020-12-18 12:34:22,926 INFO Choosing best split
+2020-12-18 12:34:22,926 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:23,016 DEBUG 0 best split point: 6.244345584589192.                      Impurity reduction: -1.349176343505266
+2020-12-18 12:34:23,016 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:23,102 DEBUG 1 best split point: 5.151907299458614.                      Impurity reduction: -1.6539382482671703
+2020-12-18 12:34:23,102 DEBUG Chose 0 and                         6.244345584589192
+2020-12-18 12:34:23,113 INFO Choosing best split
+2020-12-18 12:34:23,113 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:23,142 DEBUG 0 best split point: 6.137332701144446.                      Impurity reduction: -0.629251700680272
+2020-12-18 12:34:23,142 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:23,170 DEBUG 1 best split point: 5.103785048928639.                      Impurity reduction: -0.7959183673469388
+2020-12-18 12:34:23,170 DEBUG Chose 0 and                         6.137332701144446
+2020-12-18 12:34:23,182 INFO Choosing best split
+2020-12-18 12:34:23,182 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:23,207 DEBUG 0 best split point: 5.9938707677241325.                      Impurity reduction: -0.36111111111111116
+2020-12-18 12:34:23,207 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:23,232 DEBUG 1 best split point: 5.103785048928639.                      Impurity reduction: -0.5277777777777779
+2020-12-18 12:34:23,232 DEBUG Chose 0 and                         5.9938707677241325
+2020-12-18 12:34:23,245 INFO Stopped at 0 < 5.9938707677241325: data under current_node is already small enough
+2020-12-18 12:34:23,251 INFO Stopped at 0 >= 5.9938707677241325: all data points are of the same class
+2020-12-18 12:34:23,258 INFO Stopped at 0 >= 6.137332701144446: all data points are of the same class
+2020-12-18 12:34:23,263 INFO Stopped at 0 >= 6.244345584589192: all data points are of the same class
+2020-12-18 12:34:23,273 INFO Choosing best split
+2020-12-18 12:34:23,273 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:23,330 DEBUG 0 best split point: 6.634269224265919.                      Impurity reduction: -2.9777777777777774
+2020-12-18 12:34:23,330 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:23,387 DEBUG 1 best split point: 5.888034457259685.                      Impurity reduction: -2.164141414141414
+2020-12-18 12:34:23,387 DEBUG Chose 1 and                         5.888034457259685
+2020-12-18 12:34:23,398 INFO Stopped at 1 < 5.888034457259685: data under current_node is already small enough
+2020-12-18 12:34:23,409 INFO Choosing best split
+2020-12-18 12:34:23,409 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:23,453 DEBUG 0 best split point: 6.535003885772266.                      Impurity reduction: -1.0512396694214876
+2020-12-18 12:34:23,453 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:23,496 DEBUG 1 best split point: 6.476109770996196.                      Impurity reduction: -1.240128558310377
+2020-12-18 12:34:23,496 DEBUG Chose 0 and                         6.535003885772266
+2020-12-18 12:34:23,508 INFO Stopped at 0 < 6.535003885772266: data under current_node is already small enough
+2020-12-18 12:34:23,514 INFO Stopped at 0 >= 6.535003885772266: all data points are of the same class
+2020-12-18 12:34:23,518 INFO Stopped at 0 >= 6.763227868815335: all data points are of the same class
+2020-12-18 12:34:23,525 INFO Choosing best split
+2020-12-18 12:34:23,525 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:26,913 DEBUG 0 best split point: 7.035375953768943.                      Impurity reduction: -0.9770014257241673
+2020-12-18 12:34:26,913 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:30,101 DEBUG 1 best split point: 6.584835131295901.                      Impurity reduction: -0.8987405561589504
+2020-12-18 12:34:30,101 DEBUG Chose 1 and                         6.584835131295901
+2020-12-18 12:34:30,107 INFO Stopped at 1 < 6.584835131295901: all data points are of the same class
+2020-12-18 12:34:30,115 INFO Choosing best split
+2020-12-18 12:34:30,116 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:30,160 DEBUG 0 best split point: 7.149268396263942.                      Impurity reduction: -0.5766666666666668
+2020-12-18 12:34:30,160 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:30,206 DEBUG 1 best split point: 6.612473207335279.                      Impurity reduction: 0.08999999999999998
+2020-12-18 12:34:30,207 DEBUG Chose 1 and                         6.612473207335279
+2020-12-18 12:34:30,213 INFO Stopped at 1 < 6.612473207335279: all data points are of the same class
+2020-12-18 12:34:30,219 INFO Stopped at 1 >= 6.612473207335279: all data points are of the same class
+2020-12-18 12:34:30,225 INFO Choosing best split
+2020-12-18 12:34:30,225 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:30,292 DEBUG 0 best split point: 7.549458348598878.                      Impurity reduction: -2.4921428571428574
+2020-12-18 12:34:30,292 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:30,350 DEBUG 1 best split point: 7.000181675087731.                      Impurity reduction: -2.8155555555555556
+2020-12-18 12:34:30,350 DEBUG Chose 0 and                         7.549458348598878
+2020-12-18 12:34:30,359 INFO Choosing best split
+2020-12-18 12:34:30,359 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:30,391 DEBUG 0 best split point: 7.0727043244902745.                      Impurity reduction: -0.965625
+2020-12-18 12:34:30,391 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:30,424 DEBUG 1 best split point: 7.000181675087731.                      Impurity reduction: -1.2322916666666668
+2020-12-18 12:34:30,424 DEBUG Chose 0 and                         7.0727043244902745
+2020-12-18 12:34:30,435 INFO Stopped at 0 < 7.0727043244902745: data under current_node is already small enough
+2020-12-18 12:34:30,439 INFO Stopped at 0 >= 7.0727043244902745: all data points are of the same class
+2020-12-18 12:34:30,446 INFO Choosing best split
+2020-12-18 12:34:30,446 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:30,475 DEBUG 0 best split point: 8.527870650639148.                      Impurity reduction: -0.37755102040816324
+2020-12-18 12:34:30,475 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:30,501 DEBUG 1 best split point: 6.92121642790879.                      Impurity reduction: -0.37755102040816324
+2020-12-18 12:34:30,501 DEBUG Chose 0 and                         8.527870650639148
+2020-12-18 12:34:30,505 INFO Stopped at 0 < 8.527870650639148: all data points are of the same class
+2020-12-18 12:34:30,515 INFO Stopped at 0 >= 8.527870650639148: data under current_node is already small enough
+2020-12-18 12:34:30,521 INFO Choosing best split
+2020-12-18 12:34:30,521 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:30,814 DEBUG 0 best split point: 8.142892596153292.                      Impurity reduction: -6.774004108309991
+2020-12-18 12:34:30,814 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:31,128 DEBUG 1 best split point: 7.822198611159299.                      Impurity reduction: -8.031707189542484
+2020-12-18 12:34:31,128 DEBUG Chose 0 and                         8.142892596153292
+2020-12-18 12:34:31,134 INFO Choosing best split
+2020-12-18 12:34:31,135 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:31,416 DEBUG 0 best split point: 7.0415135966632185.                      Impurity reduction: -4.842627096087304
+2020-12-18 12:34:31,417 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:31,680 DEBUG 1 best split point: 8.139855561193645.                      Impurity reduction: -4.633835887296095
+2020-12-18 12:34:31,681 DEBUG Chose 1 and                         8.139855561193645
+2020-12-18 12:34:31,687 INFO Choosing best split
+2020-12-18 12:34:31,687 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:31,803 DEBUG 0 best split point: 6.716550248408061.                      Impurity reduction: -2.6566326530612243
+2020-12-18 12:34:31,804 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:31,923 DEBUG 1 best split point: 8.126989920286515.                      Impurity reduction: -3.905706727135299
+2020-12-18 12:34:31,924 DEBUG Chose 0 and                         6.716550248408061
+2020-12-18 12:34:31,932 INFO Choosing best split
+2020-12-18 12:34:31,932 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:32,015 DEBUG 0 best split point: 6.463278811963679.                      Impurity reduction: -0.7525000000000002
+2020-12-18 12:34:32,015 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:32,096 DEBUG 1 best split point: 7.488196878149175.                      Impurity reduction: -0.8525000000000001
+2020-12-18 12:34:32,096 DEBUG Chose 0 and                         6.463278811963679
+2020-12-18 12:34:32,101 INFO Stopped at 0 < 6.463278811963679: all data points are of the same class
+2020-12-18 12:34:32,111 INFO Stopped at 0 >= 6.463278811963679: data under current_node is already small enough
+2020-12-18 12:34:32,121 INFO Choosing best split
+2020-12-18 12:34:32,121 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:32,156 DEBUG 0 best split point: 8.007646681372096.                      Impurity reduction: -1.1941964285714286
+2020-12-18 12:34:32,157 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:32,187 DEBUG 1 best split point: 7.261343931627363.                      Impurity reduction: -1.1941964285714286
+2020-12-18 12:34:32,187 DEBUG Chose 0 and                         8.007646681372096
+2020-12-18 12:34:32,197 INFO Choosing best split
+2020-12-18 12:34:32,197 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:32,226 DEBUG 0 best split point: 7.00796739726888.                      Impurity reduction: -1.0959183673469386
+2020-12-18 12:34:32,226 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:32,258 DEBUG 1 best split point: 7.658339912679836.                      Impurity reduction: -0.7959183673469388
+2020-12-18 12:34:32,258 DEBUG Chose 1 and                         7.658339912679836
+2020-12-18 12:34:32,263 INFO Stopped at 1 < 7.658339912679836: all data points are of the same class
+2020-12-18 12:34:32,273 INFO Stopped at 1 >= 7.658339912679836: data under current_node is already small enough
+2020-12-18 12:34:32,278 INFO Stopped at 0 >= 8.007646681372096: all data points are of the same class
+2020-12-18 12:34:32,281 INFO Stopped at 1 >= 8.139855561193645: all data points are of the same class
+2020-12-18 12:34:32,287 INFO Choosing best split
+2020-12-18 12:34:32,288 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:32,315 DEBUG 0 best split point: 9.489594802101145.                      Impurity reduction: -0.9959183673469387
+2020-12-18 12:34:32,315 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:32,344 DEBUG 1 best split point: 10.339978845170512.                      Impurity reduction: -0.629251700680272
+2020-12-18 12:34:32,345 DEBUG Chose 1 and                         10.339978845170512
+2020-12-18 12:34:32,351 INFO Choosing best split
+2020-12-18 12:34:32,352 INFO Computing covariate impurity reduction for 0
+2020-12-18 12:34:32,378 DEBUG 0 best split point: 9.226577393475129.                      Impurity reduction: -0.5277777777777779
+2020-12-18 12:34:32,378 INFO Computing covariate impurity reduction for 1
+2020-12-18 12:34:32,403 DEBUG 1 best split point: 8.050720141249581.                      Impurity reduction: -0.5277777777777779
+2020-12-18 12:34:32,404 DEBUG Chose 0 and                         9.226577393475129
+2020-12-18 12:34:32,408 INFO Stopped at 0 < 9.226577393475129: all data points are of the same class
+2020-12-18 12:34:32,416 INFO Stopped at 0 >= 9.226577393475129: data under current_node is already small enough
+2020-12-18 12:34:32,420 INFO Stopped at 1 >= 10.339978845170512: all data points are of the same class
+2020-12-18 12:34:32,420 INFO Pruning tree with alpha = 0.01
+2020-12-18 12:34:32,420 DEBUG Computing pruning cost increase for subtree rooted at 0 < 5.928549563984921
+2020-12-18 12:34:32,420 DEBUG Computing misclassification cost for 0 < 5.928549563984921
+2020-12-18 12:34:32,424 DEBUG fraction_obs_node: 0.493, fraction_misclassified_points: 0.06795131845841786
+2020-12-18 12:34:32,424 DEBUG Computing misclassification cost for 0 < 5.303763736363431
+2020-12-18 12:34:32,431 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,431 DEBUG Computing misclassification cost for 1 < 5.461028061882542
+2020-12-18 12:34:32,437 DEBUG fraction_obs_node: 0.003, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,437 DEBUG Computing misclassification cost for 1 < 5.5109145388093275
+2020-12-18 12:34:32,444 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 1.0
+2020-12-18 12:34:32,444 DEBUG Computing misclassification cost for 1 >= 6.692591893848546
+2020-12-18 12:34:32,449 DEBUG fraction_obs_node: 0.3665, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,449 DEBUG Computing misclassification cost for 0 < 4.169693960143664
+2020-12-18 12:34:32,455 DEBUG fraction_obs_node: 0.038, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,455 DEBUG Computing misclassification cost for 1 < 3.375033072853904
+2020-12-18 12:34:32,460 DEBUG fraction_obs_node: 0.012, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,460 DEBUG Computing misclassification cost for 1 < 5.581496272488126
+2020-12-18 12:34:32,467 DEBUG fraction_obs_node: 0.0015, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,468 DEBUG Computing misclassification cost for 1 >= 4.007920326512566
+2020-12-18 12:34:32,473 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 1.0
+2020-12-18 12:34:32,473 DEBUG Computing misclassification cost for 0 >= 5.8551462627991135
+2020-12-18 12:34:32,478 DEBUG fraction_obs_node: 0.0015, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,478 DEBUG Computing misclassification cost for 1 >= 5.776244128776485
+2020-12-18 12:34:32,485 DEBUG fraction_obs_node: 0.001, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,486 DEBUG Computing misclassification cost for 0 >= 5.742063233024813
+2020-12-18 12:34:32,493 DEBUG fraction_obs_node: 0.0015, fraction_misclassified_points: 0.3333333333333333
+2020-12-18 12:34:32,493 DEBUG Computing misclassification cost for 0 < 4.202327834732046
+2020-12-18 12:34:32,500 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,500 DEBUG Computing misclassification cost for 0 < 4.837364132661035
+2020-12-18 12:34:32,505 DEBUG fraction_obs_node: 0.0015, fraction_misclassified_points: 0.3333333333333333
+2020-12-18 12:34:32,505 DEBUG Computing misclassification cost for 0 < 5.284177743093563
+2020-12-18 12:34:32,513 DEBUG fraction_obs_node: 0.0125, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,513 DEBUG Computing misclassification cost for 0 < 4.809962232998155
+2020-12-18 12:34:32,518 DEBUG fraction_obs_node: 0.026, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,518 DEBUG Computing misclassification cost for 0 >= 4.614327308378462
+2020-12-18 12:34:32,523 DEBUG fraction_obs_node: 0.001, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,523 DEBUG Computing misclassification cost for 1 >= 6.69103634056253
+2020-12-18 12:34:32,529 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,529 DEBUG Computing misclassification cost for 1 >= 4.073684536185508
+2020-12-18 12:34:32,535 DEBUG fraction_obs_node: 0.0045, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,535 DEBUG Computing misclassification cost for 0 < 4.614327308378462
+2020-12-18 12:34:32,540 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.4
+2020-12-18 12:34:32,540 DEBUG Computing misclassification cost for 0 >= 4.837364132661035
+2020-12-18 12:34:32,546 DEBUG fraction_obs_node: 0.002, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,546 DEBUG Computing misclassification cost for 0 < 5.443994228701838
+2020-12-18 12:34:32,552 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 1.0
+2020-12-18 12:34:32,552 DEBUG Computing misclassification cost for 0 < 5.299723450050555
+2020-12-18 12:34:32,560 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,560 DEBUG Computing misclassification cost for 0 >= 5.82886723021744
+2020-12-18 12:34:32,566 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,566 DEBUG Computing misclassification cost for 1 < 5.776244128776485
+2020-12-18 12:34:32,573 DEBUG fraction_obs_node: 0.002, fraction_misclassified_points: 0.25
+2020-12-18 12:34:32,573 DEBUG Computing misclassification cost for 0 < 5.742063233024813
+2020-12-18 12:34:32,580 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,580 DEBUG Computing misclassification cost for 0 >= 5.299723450050555
+2020-12-18 12:34:32,587 DEBUG fraction_obs_node: 0.005, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,587 DEBUG Computing misclassification cost for 0 < 4.408571161898378
+2020-12-18 12:34:32,594 DEBUG fraction_obs_node: 0.002, fraction_misclassified_points: 0.25
+2020-12-18 12:34:32,595 DEBUG Computing misclassification cost for 1 < 4.6869675703214995
+2020-12-18 12:34:32,600 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 1.0
+2020-12-18 12:34:32,600 DEBUG node_cost: 0.0335, sub_tree_leaves: {'0 < 5.303763736363431', '1 < 5.461028061882542', '1 < 5.5109145388093275', '1 >= 6.692591893848546', '0 < 4.169693960143664', '1 < 3.375033072853904', '1 < 5.581496272488126', '1 >= 4.007920326512566', '0 >= 5.8551462627991135', '1 >= 5.776244128776485', '0 >= 5.742063233024813', '0 < 4.202327834732046', '0 < 4.837364132661035', '0 < 5.284177743093563', '0 < 4.809962232998155', '0 >= 4.614327308378462', '1 >= 6.69103634056253', '1 >= 4.073684536185508', '0 < 4.614327308378462', '0 >= 4.837364132661035', '0 < 5.443994228701838', '0 < 5.299723450050555', '0 >= 5.82886723021744', '1 < 5.776244128776485', '0 < 5.742063233024813', '0 >= 5.299723450050555', '0 < 4.408571161898378', '1 < 4.6869675703214995'},                         leaves_cost: 0.005000000000000001
+2020-12-18 12:34:32,600 DEBUG Computing pruning cost increase for subtree rooted at 1 < 4.541929651298272
+2020-12-18 12:34:32,601 DEBUG Computing misclassification cost for 1 < 4.541929651298272
+2020-12-18 12:34:32,604 DEBUG fraction_obs_node: 0.0275, fraction_misclassified_points: 0.12727272727272726
+2020-12-18 12:34:32,604 DEBUG Computing misclassification cost for 0 < 5.443994228701838
+2020-12-18 12:34:32,611 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 1.0
+2020-12-18 12:34:32,611 DEBUG Computing misclassification cost for 1 < 3.375033072853904
+2020-12-18 12:34:32,615 DEBUG fraction_obs_node: 0.012, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,615 DEBUG Computing misclassification cost for 0 < 5.303763736363431
+2020-12-18 12:34:32,621 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,622 DEBUG Computing misclassification cost for 0 >= 5.742063233024813
+2020-12-18 12:34:32,628 DEBUG fraction_obs_node: 0.0015, fraction_misclassified_points: 0.3333333333333333
+2020-12-18 12:34:32,628 DEBUG Computing misclassification cost for 0 < 5.742063233024813
+2020-12-18 12:34:32,635 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,636 DEBUG Computing misclassification cost for 0 >= 4.614327308378462
+2020-12-18 12:34:32,641 DEBUG fraction_obs_node: 0.001, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,641 DEBUG Computing misclassification cost for 1 >= 4.073684536185508
+2020-12-18 12:34:32,646 DEBUG fraction_obs_node: 0.0045, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,646 DEBUG Computing misclassification cost for 0 < 4.614327308378462
+2020-12-18 12:34:32,652 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.4
+2020-12-18 12:34:32,652 DEBUG Computing misclassification cost for 1 >= 4.007920326512566
+2020-12-18 12:34:32,658 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 1.0
+2020-12-18 12:34:32,658 DEBUG node_cost: 0.0034999999999999996, sub_tree_leaves: {'0 < 5.443994228701838', '1 < 3.375033072853904', '0 < 5.303763736363431', '0 >= 5.742063233024813', '0 < 5.742063233024813', '0 >= 4.614327308378462', '1 >= 4.073684536185508', '0 < 4.614327308378462', '1 >= 4.007920326512566'},                         leaves_cost: 0.0025
+2020-12-18 12:34:32,658 DEBUG Computing pruning cost increase for subtree rooted at 1 >= 3.375033072853904
+2020-12-18 12:34:32,658 DEBUG Computing misclassification cost for 1 >= 3.375033072853904
+2020-12-18 12:34:32,662 DEBUG fraction_obs_node: 0.0155, fraction_misclassified_points: 0.22580645161290322
+2020-12-18 12:34:32,663 DEBUG Computing misclassification cost for 0 < 5.443994228701838
+2020-12-18 12:34:32,669 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 1.0
+2020-12-18 12:34:32,669 DEBUG Computing misclassification cost for 0 < 5.303763736363431
+2020-12-18 12:34:32,676 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,676 DEBUG Computing misclassification cost for 0 >= 5.742063233024813
+2020-12-18 12:34:32,684 DEBUG fraction_obs_node: 0.0015, fraction_misclassified_points: 0.3333333333333333
+2020-12-18 12:34:32,684 DEBUG Computing misclassification cost for 0 < 5.742063233024813
+2020-12-18 12:34:32,691 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,691 DEBUG Computing misclassification cost for 0 >= 4.614327308378462
+2020-12-18 12:34:32,696 DEBUG fraction_obs_node: 0.001, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,697 DEBUG Computing misclassification cost for 1 >= 4.073684536185508
+2020-12-18 12:34:32,703 DEBUG fraction_obs_node: 0.0045, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,703 DEBUG Computing misclassification cost for 0 < 4.614327308378462
+2020-12-18 12:34:32,708 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.4
+2020-12-18 12:34:32,709 DEBUG Computing misclassification cost for 1 >= 4.007920326512566
+2020-12-18 12:34:32,714 DEBUG fraction_obs_node: 0.0005, fraction_misclassified_points: 1.0
+2020-12-18 12:34:32,714 DEBUG node_cost: 0.0035, sub_tree_leaves: {'0 < 5.443994228701838', '0 < 5.303763736363431', '0 >= 5.742063233024813', '0 < 5.742063233024813', '0 >= 4.614327308378462', '1 >= 4.073684536185508', '0 < 4.614327308378462', '1 >= 4.007920326512566'},                         leaves_cost: 0.0025
+2020-12-18 12:34:32,714 DEBUG Computing pruning cost increase for subtree rooted at 0 < 4.810011245214119
+2020-12-18 12:34:32,715 DEBUG Computing misclassification cost for 0 < 4.810011245214119
+2020-12-18 12:34:32,719 DEBUG fraction_obs_node: 0.0035, fraction_misclassified_points: 0.5714285714285714
+2020-12-18 12:34:32,719 DEBUG Computing misclassification cost for 0 >= 4.614327308378462
+2020-12-18 12:34:32,724 DEBUG fraction_obs_node: 0.001, fraction_misclassified_points: 0.0
+2020-12-18 12:34:32,724 DEBUG Computing misclassification cost for 0 < 4.614327308378462
+2020-12-18 12:34:32,730 DEBUG fraction_obs_node: 0.0025, fraction_misclassified_points: 0.4
+2020-12-18 12:34:32,730 DEBUG node_cost: 0.002, sub_tree_leaves: {'0 >= 4.614327308378462', '0 < 4.614327308378462'},                         leaves_cost: 0.001
+2020-12-18 12:34:32,730 DEBUG Computing pruning cost increase for subtree rooted at 0 >= 4.810011245214119
+2020-12-18 12:34:32,730 DEBUG Computing misclassification cost for 0 >= 4.810011245214119
