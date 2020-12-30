@@ -1,3 +1,3 @@
 # luCART
 
-A package implementing Classification and Regression Trees and Random Forests. More updates soon. 
+A package implementing Classification Trees, Regression Trees and Random Forests
